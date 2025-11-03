@@ -6,6 +6,7 @@ __pycache__/
 
 # Generated media files
 *.mp3
+summary_audio.mp3
 
 # macOS system file
 .DS_Store
