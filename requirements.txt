@@ -1,0 +1,8 @@
+transformers
+torch
+sentencepiece
+gradio
+gtts
+nltk
+rake-nltk
+PyMuPDF

@@ -1,0 +1,11 @@
+# Python Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Generated media files
+*.mp3
+
+# macOS system file
+.DS_Store
